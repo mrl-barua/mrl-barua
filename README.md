@@ -12,11 +12,11 @@ P.S. Most of my personal projects are private, so if you want access to those re
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/url_mrl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marlo-barua-16a383247/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mrl_brua) 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrl-brua&show_icons=true&locale=en&layout=compact" alt="mrl-brua" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrl-barua&show_icons=true&locale=en&layout=compact" alt="mrl-barua" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrl-brua&show_icons=true&locale=en" alt="mrl-brua" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrl-barua&show_icons=true&locale=en" alt="mrl-barua" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrl-brua&" alt="mrl-brua" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrl-barua&" alt="mrl-brua" /></p>
 
 
 
